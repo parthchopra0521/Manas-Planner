@@ -1,4 +1,4 @@
-# manasPlanner (Frontend)
+# Manas-Planner
 
 PyQt-based mission planner UI mock (layout only — no backend + map placeholder).
 
@@ -18,4 +18,5 @@ Use the workspace virtualenv at `.venv`.
 /home/parth/Desktop/Nidar-gui/.venv/bin/python -m mission_planner
 ```
 
+## Notes
 
